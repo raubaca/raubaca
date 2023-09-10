@@ -7,10 +7,11 @@
 
 ## Work
 ### Popular pens on CodePen
-[<img src="https://shots.codepen.io/username/pen/PZzpVe-512.webp?version=1556664758" alt="Pure CSS Accordion" width="30%">](https://codepen.io/raubaca/pen/PZzpVe) [<img src="https://shots.codepen.io/username/pen/VejpQP-512.webp?version=1628299856" alt="Pure CSS Select" width="30%">](https://codepen.io/raubaca/pen/VejpQP) [<img src="https://shots.codepen.io/username/pen/ONzBxP-512.webp?version=1654811128" alt="Pure CSS Fancy Checkbox/Radio" width="30%">](https://codepen.io/raubaca/pen/ONzBxP)
+[<img src="https://shots.codepen.io/username/pen/PZzpVe-512.webp?version=1556664758" alt="Pure CSS Accordion" width="32%">](https://codepen.io/raubaca/pen/PZzpVe) [<img src="https://shots.codepen.io/username/pen/VejpQP-512.webp?version=1628299856" alt="Pure CSS Select" width="32%">](https://codepen.io/raubaca/pen/VejpQP) [<img src="https://shots.codepen.io/username/pen/ONzBxP-512.webp?version=1654811128" alt="Pure CSS Fancy Checkbox/Radio" width="32%">](https://codepen.io/raubaca/pen/ONzBxP)
 
-### Latest Frontend Mentor project
+### Latest Frontend Mentor projects
 [<img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Screenshots/udmteetyzwijztwby29s.jpg" alt="Todo" width="50%">](https://www.frontendmentor.io/solutions/todo-react-hooks-context-NanEFqGBv0)
+[<img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Screenshots/vucf6kyaontdahlzxxwp.jpg" alt="Countries" width="44%">](https://www.frontendmentor.io/solutions/rest-countries-api-with-color-theme-switcher-react-router-1jRsPccHw0)
 
 <!--
 **raubaca/raubaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
