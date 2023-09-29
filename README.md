@@ -14,7 +14,7 @@ I'm a self-taught **Frontend Developer** with a strong focus on UI. I've worked 
 
 ### Latest pen on CodePen
 
-[<img src="https://shots.codepen.io/username/pen/VwqBZzo-512.webp" alt="Who Is Watching - Pure CSS hover effect" width="100%">](https://codepen.io/raubaca/full/VwqBZzo)
+[<img src="https://shots.codepen.io/username/pen/VwqBZzo-1280.webp?version=1696019176" alt="Who Is Watching - Pure CSS hover effect" width="100%">](https://codepen.io/raubaca/full/VwqBZzo)
 
 ### Latest Frontend Mentor projects
 
