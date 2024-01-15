@@ -2,7 +2,7 @@
 
 I'm a self-taught **Frontend Developer** with a strong focus on UI. I've worked on a wide range of projects, from small landing pages to large web applications, and have developed a mobile-first approach to ensure the best possible user experience across all devices.
 
-🧑🏻‍💻 I'm currently learning Next.js and working on some small projects while waiting for a new challenge!
+🧑🏻‍💻 I'm currently learning TypeScript more in deep and working on some small projects while waiting for a new challenge!
 
 🌎 Let's connect: [CodePen](https://codepen.io/raubaca) | [Frontend Mentor](https://www.frontendmentor.io/profile/raubaca)
 
@@ -18,7 +18,7 @@ I'm a self-taught **Frontend Developer** with a strong focus on UI. I've worked 
 
 ### Latest Frontend Mentor projects
 
-[<img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Screenshots/udmteetyzwijztwby29s.jpg" alt="Todo" width="50%">](https://www.frontendmentor.io/solutions/todo-react-hooks-context-NanEFqGBv0)[<img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Screenshots/vucf6kyaontdahlzxxwp.jpg" alt="Countries" width="50%" align="top">](https://www.frontendmentor.io/solutions/rest-countries-api-with-color-theme-switcher-react-router-1jRsPccHw0)
+[<img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Screenshots/kvpehowq9kxodyhnim9q.jpg" alt="Blog Preview Card" width="50%" align="top">](https://www.frontendmentor.io/solutions/blog-preview-card-css-grid-flexbox-oZ6sstP3xj)[<img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Screenshots/udmteetyzwijztwby29s.jpg" alt="Todo" width="50%">](https://www.frontendmentor.io/solutions/todo-react-hooks-context-NanEFqGBv0)
 
 <!--
 **raubaca/raubaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
