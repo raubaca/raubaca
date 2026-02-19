@@ -18,7 +18,7 @@ I'm a self-taught **Frontend Developer** with a strong focus on UI. I've worked 
 
 ### Latest Frontend Mentor projects
 
-[<img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Screenshots/kvpehowq9kxodyhnim9q.jpg" alt="Blog Preview Card" width="50%" align="top">](https://www.frontendmentor.io/solutions/blog-preview-card-css-grid-flexbox-oZ6sstP3xj)[<img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Screenshots/udmteetyzwijztwby29s.jpg" alt="Todo" width="50%">](https://www.frontendmentor.io/solutions/todo-react-hooks-context-NanEFqGBv0)
+[<img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_500/Screenshots/bycudnffxkwcm0kd9mxg.jpg" alt="Blog Preview Card" width="50%" align="top">](https://www.frontendmentor.io/solutions/blog-preview-card-css-grid-flexbox-oZ6sstP3xj)[<img src="https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Screenshots/udmteetyzwijztwby29s.jpg" alt="Todo" width="50%">](https://www.frontendmentor.io/solutions/todo-react-hooks-context-NanEFqGBv0)
 
 <!--
 **raubaca/raubaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
